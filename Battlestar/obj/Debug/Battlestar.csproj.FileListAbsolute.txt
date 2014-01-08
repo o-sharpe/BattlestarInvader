@@ -32,3 +32,17 @@ c:\users\oliver\documents\visual studio 2012\Projects\Battlestar Invader\Battles
 c:\users\oliver\documents\visual studio 2012\Projects\Battlestar Invader\Battlestar\obj\Debug\resources.resfiles.intermediate
 c:\users\oliver\documents\visual studio 2012\Projects\Battlestar Invader\Battlestar\obj\Debug\pri.resfiles.intermediate
 C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader\Battlestar\bin\Debug\MonoGame.Framework.xml
+F:\Workspace\BattlestarInvader\Battlestar\bin\Debug\Battlestar.dll
+F:\Workspace\BattlestarInvader\Battlestar\bin\Debug\Battlestar.pdb
+F:\Workspace\BattlestarInvader\Battlestar\bin\Debug\Battlestar.pri
+F:\Workspace\BattlestarInvader\Battlestar\bin\Debug\Screen.dll
+F:\Workspace\BattlestarInvader\Battlestar\bin\Debug\Screen.pdb
+F:\Workspace\BattlestarInvader\Battlestar\bin\Debug\Screen.pri
+F:\Workspace\BattlestarInvader\Battlestar\obj\Debug\Battlestar.csprojResolveAssemblyReference.cache
+F:\Workspace\BattlestarInvader\Battlestar\obj\Debug\Battlestar.dll
+F:\Workspace\BattlestarInvader\Battlestar\obj\Debug\Battlestar.pdb
+F:\Workspace\BattlestarInvader\Battlestar\obj\Debug\priconfig.xml
+F:\Workspace\BattlestarInvader\Battlestar\obj\Debug\layout.resfiles
+F:\Workspace\BattlestarInvader\Battlestar\obj\Debug\resources.resfiles
+F:\Workspace\BattlestarInvader\Battlestar\obj\Debug\pri.resfiles
+F:\Workspace\BattlestarInvader\Battlestar\obj\Debug\LanguageQualifiers.txt

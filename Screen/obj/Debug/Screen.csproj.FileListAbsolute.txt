@@ -29,3 +29,14 @@ c:\users\oliver\documents\visual studio 2012\Projects\Battlestar Invader\Screen\
 c:\users\oliver\documents\visual studio 2012\Projects\Battlestar Invader\Screen\obj\Debug\pri.resfiles
 c:\users\oliver\documents\visual studio 2012\Projects\Battlestar Invader\Screen\obj\Debug\LanguageQualifiers.txt
 C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader\Screen\bin\Debug\MonoGame.Framework.xml
+F:\Workspace\BattlestarInvader\Screen\bin\Debug\Screen.dll
+F:\Workspace\BattlestarInvader\Screen\bin\Debug\Screen.pdb
+F:\Workspace\BattlestarInvader\Screen\bin\Debug\Screen.pri
+F:\Workspace\BattlestarInvader\Screen\obj\Debug\Screen.dll
+F:\Workspace\BattlestarInvader\Screen\obj\Debug\Screen.pdb
+F:\Workspace\BattlestarInvader\Screen\obj\Debug\priconfig.xml
+F:\Workspace\BattlestarInvader\Screen\obj\Debug\layout.resfiles
+F:\Workspace\BattlestarInvader\Screen\obj\Debug\resources.resfiles
+F:\Workspace\BattlestarInvader\Screen\obj\Debug\pri.resfiles
+F:\Workspace\BattlestarInvader\Screen\obj\Debug\LanguageQualifiers.txt
+F:\Workspace\BattlestarInvader\Screen\obj\Debug\Screen.csprojResolveAssemblyReference.cache

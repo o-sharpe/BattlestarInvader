@@ -1,4 +1,4 @@
-C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader\Battlestar\Battlestar.csproj;neutral
-C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader\BattlestarInvader\BattlestarInvader.csproj;neutral
-C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader\Screen\Screen.csproj;neutral
-C:\Users\Oliver\Documents\Visual Studio 2012\Projects\Battlestar Invader\Screen\Screen.csproj;neutral
+F:\Workspace\BattlestarInvader\Battlestar\Battlestar.csproj;neutral
+F:\Workspace\BattlestarInvader\BattlestarInvader\BattlestarInvader.csproj;neutral
+F:\Workspace\BattlestarInvader\Screen\Screen.csproj;neutral
+F:\Workspace\BattlestarInvader\Screen\Screen.csproj;neutral
